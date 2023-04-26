@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ffa0140-c9a8-42d2-919f-06010a5365b8" name="Changes" comment="Utilizado biblioteca Gson para formatação">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
+    <list default="true" id="2ffa0140-c9a8-42d2-919f-06010a5365b8" name="Changes" comment="Utilizado Exception">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/TItulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/TItulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
@@ -85,13 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682534906291</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Utilizado Exception">
+      <created>1682539147570</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682539147570</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Utilizando API no JAVA" />
     <MESSAGE value="Utilizado biblioteca Gson para formatação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utilizado biblioteca Gson para formatação" />
+    <MESSAGE value="Utilizado Exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilizado Exception" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
